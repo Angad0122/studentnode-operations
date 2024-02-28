@@ -1,0 +1,5 @@
+array.map 
+array.findindex
+array.foreach
+array.reduce
+array.include
